@@ -42,7 +42,7 @@ python3 -m http.server 4173 --bind 127.0.0.1
 
 ## 배포 파일
 
-`index.html`, `app.js`, `style.css`, `rsvp-config.js`, `wedding.ics`, `assets/`.
+`index.html`, `app.js`, `style.css`, `rsvp-config.js`, `assets/`.
 원본 JPEG와 README는 사이트 동작에 필요하지 않습니다. 빌드 없이 GitHub Pages에서 실행됩니다.
 
 ## 검증 결과
